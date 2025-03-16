@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "254743706010"
+const ownervb = process.env.OWNERS || "254726856795"
 
 
 const ownerlist = ownervb.split(';');
@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number her
 
-global.mods = ['254743706010', '254700143167']
-global.prems = ['254743706010', '254700143167', '254755267907']
-global.allowed = ['254743706010', '254700143167']
+global.mods = ['254726856795', '254750178300']
+global.prems = ['254726856795', '254750178300', '254726856795']
+global.allowed = ['254726856795', '254750178300']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -71,18 +71,18 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'silva'
-global.author = 'silva'
+global.packname = '𝙸 αɱ ค̡ƈє™⟬𝟭⟭'
+global.author = 'ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ⟨𝕯⟩'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
-global.fgsc = 'https://github.com/SilvaTechB/silva-md-bot'
+global.fgsc = 'https://github.com/acejobbie/silva-md-bot'
 global.fgyt = 'https://youtube.com/@silvaedits254'
 global.fgpyp = 'https://youtube.com/@silvaedits254'
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
-global.wait = '*⌛ _SILVA MD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _ACEMD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
