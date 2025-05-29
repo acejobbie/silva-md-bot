@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number her
+//global.pairingNumber = "254750178300" //put your bot number her
 
 global.mods = ['254726856795', '254750178300']
 global.prems = ['254726856795', '254750178300', '254726856795']
@@ -84,10 +84,10 @@ global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
 global.wait = '*⌛ _ACEMD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '🉑'
 global.done = '✅'
 global.error = '❌'
-global.xmoji = '🔥'
+global.xmoji = '💥'
 
 global.multiplier = 69
 global.maxwarn = '3'
