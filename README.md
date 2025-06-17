@@ -1,3 +1,5 @@
+> ### UNDER MAINTENANCE 
+
 ### VERSION 4.0.1
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=F70094&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey+there!+Welcome+to+Silva+MD+Bot+🚀;🔍+The+Official+Repository+💻;✅+Created+in+September+2024;🤖+Powered+by+the+Silva+Team;🚀+Advanced+Features+%7C+Smooth+Performance+🧠;🔗+Fork+it+and+⭐+Star+the+Project)](https://git.io/typing-svg)
@@ -23,6 +25,22 @@
   <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
   <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
 </p>
+
+## 📊 Project Stats
+
+<div align="center">
+
+| Statistic | Badge |
+|-----------|-------|
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=SilvaMDBot&label=Profile+Views&color=9D00FF&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/SilvaTechB/silva-md-bot?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/SilvaTechB/silva-md-bot?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/SilvaTechB/silva-md-bot?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/SilvaTechB/silva-md-bot?color=9D00FF&label=Forks&style=flat-square"> |
+
+</div>
+
+---
 
 > A powerful WhatsApp userbot built using the [Baileys](https://github.com/SilvaTechB/Baileys) library.  
 > Automate, interact, and explore AI, media tools, reactions, polls, and more!  
